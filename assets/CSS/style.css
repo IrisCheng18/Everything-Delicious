@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/food.png");
+}
+
+.jumbotron {
+    background-image: url("../images/foodbg-50-darker.png");
+    color: white;
+}
+
+.food-card {
+    /* display: inline-block; */
+    height: 90%;
+}
