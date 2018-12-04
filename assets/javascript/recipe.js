@@ -6,7 +6,7 @@ function getRecipe(searchText = "") {
 
     // edamam url base
     var queryURL =
-      "http://api.edamam.com/search?from=0&to=20&app_id=" +
+      "https://api.edamam.com/search?from=0&to=20&app_id=" +
       apiId +
       "&app_key=" +
       apiKey + "&q=" + searchText;
