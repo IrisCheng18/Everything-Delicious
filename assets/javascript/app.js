@@ -37,7 +37,7 @@ $(document).ready(function () {
                 $(".recipeImage").append(col);
             };
 
-
+            $(".embedVideo").text("Click on the image to show the video...");
         });
     });
 
